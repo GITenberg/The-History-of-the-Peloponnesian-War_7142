@@ -1,0 +1,35 @@
+_repo: The-History-of-the-Peloponnesian-War_7142
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Crawley, Richard
+    birthdate: 1840
+    deathdate: 1893
+    gutenberg_agent_id: '2353'
+    url: http://www.gutenberg.org/2009/agents/2353
+creator:
+  author:
+    agent_name: Thucydides
+    aliases:
+    - Θουκυδίδης
+    - Θουκιδίδης
+    birthdate: -460
+    deathdate: -395
+    gutenberg_agent_id: '2352'
+    url: http://www.gutenberg.org/2009/agents/2352
+    wikipedia: http://en.wikipedia.org/wiki/Thucydides
+description: ''
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7142'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Greece -- History -- Peloponnesian War, 431-404 B.C.'
+- !lcc 'DF'
+- GITenberg
+title: The History of the Peloponnesian War
+url: http://www.gutenberg.org/ebooks/7142
