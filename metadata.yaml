@@ -1,5 +1,5 @@
 _repo: The-History-of-the-Peloponnesian-War_7142
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Crawley, Richard
@@ -7,6 +7,9 @@ contributor:
     deathdate: 1893
     gutenberg_agent_id: '2353'
     url: http://www.gutenberg.org/2009/agents/2353
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Thucydides
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2352
     wikipedia: http://en.wikipedia.org/wiki/Thucydides
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7142#The-History-of-the-Peloponnesian-War
 gutenberg_issued: '2004-12-01'
 gutenberg_type: Text
 identifiers:
